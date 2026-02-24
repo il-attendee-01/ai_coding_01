@@ -1,0 +1,10 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+    font-size: 30px;
+}

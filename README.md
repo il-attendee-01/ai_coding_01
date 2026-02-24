@@ -22,3 +22,5 @@ This project contains two functions to calculate the Fibonacci sequence and the 
 
 ## Example Usage
 
+---
+More stuff to be added...
