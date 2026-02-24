@@ -1,0 +1,1 @@
+When performing a code review, make sure the README.md file is up to date and accurately reflects the content in the codebase.
